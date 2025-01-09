@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "677cd5f7b6cb858a08063f8d"
+  },
+  "name": "Buds Pro Ks 08 Gaming TWS Bluetooth Headset",
+  "price": 4999,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone1.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cd645b6cb858a08063f8e"
+  },
+  "name": "Edifier X2S True Wireless Stereo Earbuds",
+  "price": 3199,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone2.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cd6a911368091272afbd9"
+  },
+  "name": "IPX5, Bluetooth 5.3 Ear Buds TWS (White)",
+  "price": 2999,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone3.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cd710240e94489245f274"
+  },
+  "name": "BUDS X121 TRUE WIRELESS EARBUDS (CARBON BLACK)",
+  "price": 4599,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone4.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cd73c44bee6772b9a1984"
+  },
+  "name": "BUDS X614 ANC TRUE WIRELESS EARBUDS (PURE WHITE)",
+  "price": 2299,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone5.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cf698706939b23e5caf2a"
+  },
+  "name": "Earbuds TWS V5.3 Sweatproof ANC Wireless Headset AIR8",
+  "price": 5399,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone6.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cf6d7706939b23e5caf2b"
+  },
+  "name": "Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass",
+  "price": 2299,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone7.jpg"
+},
+{
+  "_id": {
+    "$oid": "677dfece37b0c887acac9363"
+  },
+  "name": "Buds Pro Ks 08 Gaming TWS Bluetooth Headset",
+  "price": 4999,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone1.jpg"
+}]

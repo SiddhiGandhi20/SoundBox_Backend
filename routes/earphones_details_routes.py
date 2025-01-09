@@ -13,7 +13,6 @@ def create_earphone_details_routes(db, upload_folder):
 
     # Get the host IP address
     def get_host_ip():
-        # This will get the machine's local IP address
         host_ip = socket.gethostbyname(socket.gethostname())
         return host_ip
 
@@ -59,7 +58,11 @@ def create_earphone_details_routes(db, upload_folder):
 
             # Insert into MongoDB
             created_detail = details_model.create_detail(detail_data)
-            return jsonify(created_detail), 201
+            
+            if created_detail:
+                return jsonify(created_detail), 201  # Return the response with the ID
+            else:
+                return jsonify({"message": "Error creating detail"}), 500
         except Exception as e:
             return jsonify({"message": f"Error creating detail: {str(e)}"}), 500
 

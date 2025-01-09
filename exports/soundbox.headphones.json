@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "677cf950706939b23e5caf2c"
+  },
+  "name": "Sony MDR-ZX110AP Wireless Headphones",
+  "price": 5399,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone1.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cf99a706939b23e5caf2d"
+  },
+  "name": "Sony WH-XB900N Wireless Headphones",
+  "price": 4599,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone2.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cf9c7706939b23e5caf2e"
+  },
+  "name": "JBL E45BT Wireless Headphones",
+  "price": 2299,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone3.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cf9ec706939b23e5caf2f"
+  },
+  "name": "Bose QuietComfort 35 II Wireless Headphones",
+  "price": 6399,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone4.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cfa12706939b23e5caf30"
+  },
+  "name": "Bose SoundTure Wireless Headphones",
+  "price": 5999,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone5.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cfa4d706939b23e5caf31"
+  },
+  "name": "Logitech G633 Wireless Headphones",
+  "price": 6499,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone6.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cfa6d706939b23e5caf32"
+  },
+  "name": "Audio-Technica ATH-ON303 Wireless Headphones",
+  "price": 5999,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone7.jpg"
+}]

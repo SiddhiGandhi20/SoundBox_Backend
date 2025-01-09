@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "677cfadb706939b23e5caf33"
+  },
+  "name": "Ulysse Nardin",
+  "price": 50399,
+  "image_url": "http://192.168.29.32:5000/uploads/smartwatches/watch7.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cfb0b706939b23e5caf34"
+  },
+  "name": "Hublot Classic",
+  "price": 15999,
+  "image_url": "http://192.168.29.32:5000/uploads/smartwatches/watch6.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cfb40706939b23e5caf35"
+  },
+  "name": "H. Moser & Cie. Streamliner",
+  "price": 30000,
+  "image_url": "http://192.168.29.32:5000/uploads/smartwatches/watch5.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cfb6b706939b23e5caf36"
+  },
+  "name": "Frederique Constant Manufacture",
+  "price": 20999,
+  "image_url": "http://192.168.29.32:5000/uploads/smartwatches/watch4.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cfba1706939b23e5caf37"
+  },
+  "name": "Huawei Watch GT 5 (46mm)",
+  "price": 10399,
+  "image_url": "http://192.168.29.32:5000/uploads/smartwatches/watch3.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cfbc8706939b23e5caf38"
+  },
+  "name": "Redmi Watch 5 Lite",
+  "price": 40500,
+  "image_url": "http://192.168.29.32:5000/uploads/smartwatches/watch2.jpg"
+},
+{
+  "_id": {
+    "$oid": "677cfbf8706939b23e5caf39"
+  },
+  "name": "Compare Amazfit",
+  "price": 37399,
+  "image_url": "http://192.168.29.32:5000/uploads/smartwatches/watch1.jpg"
+}]

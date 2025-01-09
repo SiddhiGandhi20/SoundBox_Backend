@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "677e0410cb04afa2a3b805c2"
+  },
+  "name": "Sony MDR-ZX110AP Wireless Headphones",
+  "price": 5399,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone1.jpg",
+  "description": "Affordable and durable wireless headphones with great sound quality.",
+  "headphone_id": "677cf950706939b23e5caf2c"
+},
+{
+  "_id": {
+    "$oid": "677e0479cb04afa2a3b805c3"
+  },
+  "name": "Sony WH-XB900N Wireless Headphones",
+  "price": 4599,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone2.jpg",
+  "description": "Affordable and durable wireless headphones with great sound quality.",
+  "headphone_id": "677cf99a706939b23e5caf2d"
+},
+{
+  "_id": {
+    "$oid": "677e04d2cb04afa2a3b805c4"
+  },
+  "name": "JBL E45BT Wireless Headphones",
+  "price": 2299,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone3.jpg",
+  "description": "JBL wireless headphones with long-lasting battery and superior sound.",
+  "headphone_id": "677cf9c7706939b23e5caf2e"
+},
+{
+  "_id": {
+    "$oid": "677e0522cb04afa2a3b805c5"
+  },
+  "name": "Bose QuietComfort 35 II Wireless Headphones",
+  "price": 6399,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone4.jpg",
+  "description": "Industry-leading noise cancellation with premium sound quality.",
+  "headphone_id": "677cf9ec706939b23e5caf2f"
+},
+{
+  "_id": {
+    "$oid": "677e0589cb04afa2a3b805c6"
+  },
+  "name": "Bose SoundTure Wireless Headphones",
+  "price": 5999,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone5.jpg",
+  "description": "Comfortable wireless headphones with balanced sound and a durable build.",
+  "headphone_id": "677cfa12706939b23e5caf30"
+},
+{
+  "_id": {
+    "$oid": "677e062ccb04afa2a3b805c7"
+  },
+  "name": "Audio-Technica ATH-ON303 Wireless Headphones",
+  "price": 5999,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone7.jpg",
+  "description": "Premium wireless headphones with rich, detailed sound.",
+  "headphone_id": "677cfa6d706939b23e5caf32"
+},
+{
+  "_id": {
+    "$oid": "677e19d946e8a1ba3781e938"
+  },
+  "name": "Logitech G633 Wireless Headphones",
+  "price": 6499,
+  "image_url": "http://192.168.29.32:5000/uploads/headphones/headphone6.jpg",
+  "description": "Affordable and durable wireless headphones with great sound quality.",
+  "headphone_id": "677cfa4d706939b23e5caf31"
+}]

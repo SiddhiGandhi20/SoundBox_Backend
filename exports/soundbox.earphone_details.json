@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "677dff7837b0c887acac9364"
+  },
+  "name": "Buds Pro Ks 08 Gaming TWS Bluetooth Headset",
+  "price": 4999,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone1.jpg",
+  "description": "Wireless Bluetooth Earphone with superior sound quality.",
+  "earphone_id": "677cd5f7b6cb858a08063f8d"
+},
+{
+  "_id": {
+    "$oid": "677e0074cb04afa2a3b805bc"
+  },
+  "name": "Edifier X2S True Wireless Stereo Earbuds",
+  "price": 3199,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone2.jpg",
+  "description": "True Wireless Stereo (TWS) Earbuds with crystal-clear sound.",
+  "earphone_id": "677cd645b6cb858a08063f8e"
+},
+{
+  "_id": {
+    "$oid": "677e00d5cb04afa2a3b805bd"
+  },
+  "name": "IPX5, Bluetooth 5.3 Ear Buds TWS (White)",
+  "price": 2999,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone3.jpg",
+  "description": "Wireless Bluetooth 5.3 earbuds with IPX5 water resistance.",
+  "earphone_id": "677cd6a911368091272afbd9"
+},
+{
+  "_id": {
+    "$oid": "677e0159cb04afa2a3b805be"
+  },
+  "name": "BUDS X121 TRUE WIRELESS EARBUDS (CARBON BLACK)",
+  "price": 4599,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone4.jpg",
+  "description": "Stylish true wireless earbuds with deep bass and comfort.",
+  "earphone_id": "677cd710240e94489245f274"
+},
+{
+  "_id": {
+    "$oid": "677e01a5cb04afa2a3b805bf"
+  },
+  "name": "BUDS X614 ANC TRUE WIRELESS EARBUDS (PURE WHITE)",
+  "price": 2299,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone5.jpg",
+  "description": "Noise-canceling wireless earbuds with pure sound quality.",
+  "earphone_id": "677cd73c44bee6772b9a1984"
+},
+{
+  "_id": {
+    "$oid": "677e0215cb04afa2a3b805c0"
+  },
+  "name": "Earbuds TWS V5.3 Sweatproof ANC Wireless Headset AIR8",
+  "price": 5399,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone6.jpg",
+  "description": "High-quality ANC earbuds for active lifestyles.",
+  "earphone_id": "677cf698706939b23e5caf2a"
+},
+{
+  "_id": {
+    "$oid": "677e0273cb04afa2a3b805c1"
+  },
+  "name": "Mivi DuoPods K2 TWS,AI-ENC,40Hr Playtime,13mm Bass",
+  "price": 2299,
+  "image_url": "http://192.168.29.32:5000/uploads/earphones/Earphone7.jpg",
+  "description": "Long-lasting earbuds with AI-ENC and deep bass.",
+  "earphone_id": "677cf6d7706939b23e5caf2b"
+}]
