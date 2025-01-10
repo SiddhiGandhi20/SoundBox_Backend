@@ -1,5 +1,5 @@
 from pymongo.errors import PyMongoError
-from bson import ObjectId
+from bson.objectid import ObjectId
 
 class HeadphoneDetailsModel:
     def __init__(self, db):
@@ -15,7 +15,8 @@ class HeadphoneDetailsModel:
                 "headphone_id": detail_data["headphone_id"]
             }
             result = self.collection.insert_one(item)
-            return str(result.inserted_id)
+            # Return the inserted ID along with a success message
+            return {"id": str(result.inserted_id), "message": "Detail created successfully"}
         except PyMongoError as e:
             print(f"Error creating item: {e}")
             return None
